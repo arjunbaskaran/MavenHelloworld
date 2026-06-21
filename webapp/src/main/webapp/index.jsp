@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Illoominati Apparel</title>
+    <title>Illoominati Tees</title>
     <style>
         body {
             background-color: #000000;
